@@ -30,7 +30,7 @@ latest_posts:
 Hi! I'm Emilio. I'm from Argentina, where I did a PhD in chemistry specialized in computer simulations. 
 My work consists in the application of statistical tools to understand physical systems. 
 I focused my research in the development of machine learning algorithms to solve chemistry problems.
-Currently I'm working as a PostDoc Sorbonne University. I'm currently working on the modeling of Metal Organic Frameworks, which are promising materials for energetic transition and green chemistry.
+Currently I'm working as a PostDoc Sorbonne University, with Professor Rocío Semino. I'm currently working on the modeling of Metal Organic Frameworks, which are promising materials for energetic transition and green chemistry.
 
 
 
